@@ -1,9 +1,9 @@
 ## Go to the folder
-don't forget to run cmd as administrator <3
+don't forget to run cmd as administrator
 type cd "paste path of 0_appleColorSorter"
 ex: cd C:\Users\carol\Documents\C O L L E G E\Sem 5\IoT\final\0_appleColorSorterMQTT
 
-## Create Virtual Environment udah
+## Create Virtual Environment
 
 python -m venv .
 
@@ -11,7 +11,7 @@ python -m venv .
 
 .\Scripts\activate
 
-## Installing Libraries udah
+## Installing Libraries
 
 pip install -r requirements.txt
 
